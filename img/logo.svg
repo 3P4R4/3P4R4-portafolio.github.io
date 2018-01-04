@@ -1,0 +1,13 @@
+<svg width="494" height="80" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="71" width="585" fill="none" y="14" x="35"/>
+  <text x="-9" y="0" id="svg_2" font-size="72" font-family="'PTSans-Bold'" fill="#ffffff" transform="matrix(1,0,0,1,35,64.3994) ">GDLWEBCAMP</text>
+  <rect id="svg_3" height="58.825" width="18" fill="#FE4918" y="9.175" x="3"/>
+ </g>
+</svg>
